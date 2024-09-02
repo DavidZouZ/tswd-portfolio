@@ -1,34 +1,24 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+# TSWD-Portfolio-David-Zou
+- Web page URL: https://davidzouz.github.io/tswd-portfolio/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! This is David (Zexin) Zou, and I am currently pursuing a Master’s degree in Business Intelligence and Data Analytics at Carnegie Mellon University. I hold a Bachelor’s degree in Mathematics and Computer Science, with a minor in Business Studies, from New York University. I am writing to express my interest in the journey of data visualization and story telling with data.
+
+Throughout my academic and professional journey, I have gained valuable experience across various industries, including consulting, internet technology (advertisement), and finance. These experiences have honed my ability to tackle complex problems and enhanced my data processing and analytical skills. I am proficient in managing databases and extracting data using SQL, conducting mathematical modeling with MATLAB and Python (Scikit-learn), and creating data visualizations using Tableau and Python (matplotlib). My research experience at NYU further strengthened my ability to conduct independent research and introduced me to the application of NLP in big data. Additionally, my entrepreneurial endeavors have sharpened my business acumen and refined my communication and management skills.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. The most effcient and effective data visualization methodology that can be apply to different real world circumstances.
+2. How to set up a Github portfolio is also new and interesting.
+3. How to build live/online/auto-update data visualization dashboard.
 
 # Portfolio
 
-# Examples
+## Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
@@ -42,6 +32,25 @@ Here it might be helpful to include a high-level description of your final proje
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
