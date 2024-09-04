@@ -1,21 +1,19 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Assignment 1
-Text here!
+# Assignment: Visualizing government debt using Tableau
 
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
-
-## Part one: Working with web-based visualization tools and data
+## Part 1: Working with web-based visualization tools and data
 
 _Include your visualization, and introduce us to what you did._
 
-(https://data-viewer.oecd.org?chartId=ebdfc227-57ba-42ec-83e0-ad2243ad4d1d)
+Online Visualization: <https://data-viewer.oecd.org?chartId=ebdfc227-57ba-42ec-83e0-ad2243ad4d1d>
+What I did: I selected the 2023 as the single year for governments debt-to-GDP ratio graph.
 
-## Working with Tableau
+## Part 2: Working with Tableau
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
 
-## Part three: create your own visualization
+## Part 3: Create your own visualization
 
 _Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart.  Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
 
