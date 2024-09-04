@@ -1,4 +1,4 @@
-| [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # TSWD-Portfolio-David-Zou
 - Web page URL: https://davidzouz.github.io/tswd-portfolio/
