@@ -38,7 +38,7 @@ The chart shows the Debt-to-GDP ratio in percentage with Location as the Rows an
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
+\n
 This is a bubble chart where each circle represents a country, and the size of the bubble corresponds to the average Debt-to-GDP ratio.
 
 The colors distinguish countries, while the bubble sizes visually indicate how high or low the Debt-to-GDP ratios are. Larger circles represent countries with higher debt, such as Japan (181%) and Greece (135.7%), while smaller ones show countries with lower debt, like Latvia (29.7%) and Estonia (35.5%). The chart is useful for quickly identifying outliers in debt levels (e.g., Japan) and comparing various countries side by side in terms of economic health.
