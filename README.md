@@ -1,4 +1,4 @@
-| [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design] | [final project I] | [final project II] | [final project III] |
 
 # TSWD-Portfolio-David-Zou
 - Web page URL: https://davidzouz.github.io/tswd-portfolio/
@@ -19,8 +19,8 @@ Throughout my academic and professional journey, I have gained valuable experien
 # Portfolio
 Examples: You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
-This page is linking to a new Markdown document called `visualizing-government-debt.md`. 
+## Assignment 1: [Visualizing Government Debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt)
+This page is linking to a new Markdown document called `visualizing-government-debt.md` for homework 1 by David Zou. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
