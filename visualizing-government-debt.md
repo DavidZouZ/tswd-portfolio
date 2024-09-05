@@ -1,6 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt]([visualizing-government-debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt)) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Assignment: Visualizing government debt using Tableau
+Web Link: https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt
 
 ## Part 1: Working with web-based visualization tools and data
 
