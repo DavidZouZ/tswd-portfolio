@@ -38,7 +38,7 @@ The chart shows the Debt-to-GDP ratio in percentage with Location as the Rows an
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
+<br/>
 
 This is a bubble chart where each circle represents a country, and the size of the bubble corresponds to the average Debt-to-GDP ratio.
 
@@ -55,7 +55,7 @@ The colors distinguish countries, while the bubble sizes visually indicate how h
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
+<br/>
 
 This line chart compares the top three countries (Greece, Italy, and Japan) in terms of Debt-to-GDP ratios over time and includes forecasting after 2018.
 
