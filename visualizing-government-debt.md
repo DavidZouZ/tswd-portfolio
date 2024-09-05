@@ -56,6 +56,7 @@ The colors distinguish countries, while the bubble sizes visually indicate how h
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 This line chart compares the top three countries (Greece, Italy, and Japan) in terms of Debt-to-GDP ratios over time and includes forecasting after 2018.
 
 The actual data is presented before 2018, and the shaded regions represent forecasted Debt-to-GDP ratios for the countries beyond 2018. The chart emphasizes trends, such as Japan’s consistently high debt and Greece’s financial crisis around 2013. The chart is particularly effective for understanding long-term trends and future projections. It helps in identifying not only the current debt situation but also its trajectory based on historical data.
