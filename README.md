@@ -1,7 +1,7 @@
 | [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design] | [final project I] | [final project II] | [final project III] |
 
 # TSWD-Portfolio-David-Zou
-- Web page URL: https://davidzouz.github.io/tswd-portfolio/
+- Web page URL: <https://davidzouz.github.io/tswd-portfolio/>
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
