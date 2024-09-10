@@ -9,7 +9,7 @@ Web Link: <https://davidzouz.github.io/tswd-portfolio/visualizing-government-deb
 
 Online Visualization: <https://data-viewer.oecd.org?chartId=ebdfc227-57ba-42ec-83e0-ad2243ad4d1d>
 
-What I did: I selected the 2023 as the single year for governments debt-to-GDP ratio graph.
+What I did: I selected the 2023 as the single year for governments debt-to-GDP ratio graph. This chart displays the gross government debt as a percentage of GDP for various countries in 2023. The countries are listed along the horizontal axis, while the vertical axis represents the percentage of GDP. The United States is highlighted with a debt ratio of 122.61% of GDP.
 
 ## Part 2: Working with Tableau
 
