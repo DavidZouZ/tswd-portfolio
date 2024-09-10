@@ -23,7 +23,7 @@ In terms of effectiveness, the evaluation method successfully assessed important
 
 ## Step three: Sketch a solution
 
-<img src="sketch-solution-pressure-freedom.jpg" width="700"/>
+<img src="sketch-solution-pressure-freedom.jpg" width="900"/>
 
 ## Step four: Test the solution
 
