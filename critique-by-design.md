@@ -1,15 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique by Design with Tableau
 
 ## Step one: the visualization
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+
+The article (https://www.theguardian.com/media/2023/may/03/media-freedom-in-dire-state-in-record-number-of-countries-report-finds?CMP=Share_iOSApp_Other) highlights the alarming decline in global press freedom, with a record number of countries being categorized as having a "very serious situation" regarding media freedom.  The report from the World Press Freedom Index identifies disinformation, propaganda, and artificial intelligence as increasing threats to journalism.  Governments, including both autocratic and some democratic ones, are becoming more aggressive in undermining press freedom through disinformation campaigns, propaganda, and arrests of journalists.  Notable declines were observed in countries like Russia, India, and Turkey, as well as in regions such as Africa and the Middle East.  Meanwhile, Nordic countries continue to lead in press freedom, with Norway ranked first.  The article concludes with concerns about rising populism and declining press freedom, even in traditionally safe regions like the EU.
+
+
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
