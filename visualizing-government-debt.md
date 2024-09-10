@@ -13,8 +13,6 @@ What I did: I selected the 2023 as the single year for governments debt-to-GDP r
 
 ## Part 2: Working with Tableau
 
-The chart shows the Debt-to-GDP ratio in percentage with Location as the Rows and Year(Times) as the Columns with SUM(Value) as the Text and the Color sections, making it to the following Heat Map. The more the number goes toward orange, the higher the number; on the other hand, the lower the number, the more its color goes toward Dark Blue.
-
 <div class='tableauPlaceholder' id='viz1725567390614' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP Ratio% ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSD-VisualizinggovernmentdebtusingTableau-Part2-DavidZou&#47;Debt-to-GDPRatio&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSD-VisualizinggovernmentdebtusingTableau-Part2-DavidZou&#47;Debt-to-GDPRatio' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSD-VisualizinggovernmentdebtusingTableau-Part2-DavidZou&#47;Debt-to-GDPRatio&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1725567390614');
@@ -24,6 +22,7 @@ The chart shows the Debt-to-GDP ratio in percentage with Location as the Rows an
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+The chart shows the Debt-to-GDP ratio in percentage with Location as the Rows and Year(Times) as the Columns with SUM(Value) as the Text and the Color sections, making it to the following Heat Map. The more the number goes toward orange, the higher the number; on the other hand, the lower the number, the more its color goes toward Dark Blue.
 
 ## Part 3: Create your own visualization
 
