@@ -6,7 +6,7 @@
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-![press freedom situation]()
+<img sc="press-freedom-situation.jpg" width="400"/>
 
 The article (https://www.theguardian.com/media/2023/may/03/media-freedom-in-dire-state-in-record-number-of-countries-report-finds?CMP=Share_iOSApp_Other) highlights the alarming decline in global press freedom, with a record number of countries being categorized as having a "very serious situation" regarding media freedom. The report from the World Press Freedom Index identifies disinformation, propaganda, and artificial intelligence as increasing threats to journalism.  Governments, including both autocratic and some democratic ones, are becoming more aggressive in undermining press freedom through disinformation campaigns, propaganda, and arrests of journalists. Notable declines were observed in countries like Russia, India, and Turkey, as well as in regions such as Africa and the Middle East. Meanwhile, Nordic countries continue to lead in press freedom, with Norway ranked first. The article concludes with concerns about rising populism and declining press freedom, even in traditionally safe regions like the EU.
 
