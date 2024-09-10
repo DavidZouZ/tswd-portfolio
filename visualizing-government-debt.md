@@ -7,6 +7,8 @@ Web Link: <https://davidzouz.github.io/tswd-portfolio/visualizing-government-deb
 
 _Include your visualization, and introduce us to what you did._
 
+(Public finance main indicators.jpg)
+
 Online Visualization: <https://data-viewer.oecd.org?chartId=ebdfc227-57ba-42ec-83e0-ad2243ad4d1d>
 
 What I did: I selected the 2023 as the single year for governments debt-to-GDP ratio graph.
