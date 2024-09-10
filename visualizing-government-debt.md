@@ -5,8 +5,6 @@ Web Link: <https://davidzouz.github.io/tswd-portfolio/visualizing-government-deb
 
 ## Part 1: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
-
 ![debt-to-GDP ratio](public-finance-main-indicators.jpg)
 
 Online Visualization: <https://data-viewer.oecd.org?chartId=ebdfc227-57ba-42ec-83e0-ad2243ad4d1d>
