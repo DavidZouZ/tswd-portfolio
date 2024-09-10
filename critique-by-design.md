@@ -1,8 +1,8 @@
-| [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](https://davidzouz.github.io/tswd-portfolio/critique-by-design/) | [final project I] | [final project II] | [final project III] |
+| [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](https://davidzouz.github.io/tswd-portfolio/critique-by-design) | [final project I] | [final project II] | [final project III] |
 
 # Critique by Design with Tableau
 
-Web Link: https://davidzouz.github.io/tswd-portfolio/critique-by-design/
+Web Link: https://davidzouz.github.io/tswd-portfolio/critique-by-design
 
 ## Step one: the visualization
 
