@@ -27,30 +27,20 @@ In terms of effectiveness, the evaluation method successfully assessed important
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+**Interview 1 (BIDA studnet, mid 20's):**
+_Can you tell me what you think this is?_
+The first line graph compares the average points of countries in terms of their press freedom situation from 2021 to 2023. It also shows the yearly trend of each country surveyed. The second graph shows the distribution of the 31 countries that are labeled “Very Serious” in terms of press freedom situation in 2023, how the situation was different back to 2021. 
+_Can you describe to me what this is telling you?_
+In the first graph, those countries above the average line are deemed having more a serious press freedom situation than those under the average line, which is a common sense too. The average line assists in comparing those countries. The second graph highlights that the number of countries rated “Very Serious” increases from 2021 to 2023, from 26 to 31, as an example, including those rated “Difficult”, “Problematic”, and “Satisfactory”.
+_Is there anything you find surprising or confusing?_
+For the first graph, is there a proper way to identify and label the countries either above or below the average line? Are they “Very Serious”, “Difficult”, “Problematic”, “Satisfactory”, or “Good” according to the criteria of second graph? The second graph takes some time to understand but it is a good way to show the flow of the press freedom situation over time.
+_Who do you think is the intended audience for this?_
+Journalists, people working in media industry, general public
+_Is there anything you would change or do differently?_
+The average line is one of the good ways to show how each country compared to average. If there are specific countries that needs to be pointed out, a highlight color can be used that is properly labeled. For the color pattern of second graph, consider using red for the worst situation (“Very Serious”) and green for the better one (“Good”), and blue in the middle.
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+
 
 Synthesis: 
 
