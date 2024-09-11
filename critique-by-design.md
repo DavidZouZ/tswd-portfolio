@@ -49,10 +49,9 @@ _Is there anything you would change or do differently?_
 
 The average line is one of the good ways to show how each country compared to average. If there are specific countries that needs to be pointed out, a highlight color can be used that is properly labeled. For the color pattern of second graph, consider using red for the worst situation (“Very Serious”) and green for the better one (“Good”), and blue in the middle.
 
+**Interview 2 (MISM studnet, mid 20's):**
 
-
-
-Synthesis: 
+**Synthesis:** 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
