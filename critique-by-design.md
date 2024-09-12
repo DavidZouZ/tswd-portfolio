@@ -2,7 +2,7 @@
 
 # Critique by Design with Tableau
 
-Web Link: https://davidzouz.github.io/tswd-portfolio/critique-by-design
+Web Link: <https://davidzouz.github.io/tswd-portfolio/critique-by-design>
 
 ## Step one: the visualization
 
