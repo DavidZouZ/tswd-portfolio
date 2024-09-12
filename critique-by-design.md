@@ -124,6 +124,7 @@ The first chart sets the stage by showing the overall decline in press freedom a
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+<br/>
 
 **Graph 2 - Line Chart: Number of Countries by Level**
 
@@ -138,6 +139,7 @@ The second chart builds on the narrative of the first by breaking down how count
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+<br/>
 
 **Graph 3 - Sankey Diagram: 2021 vs 2023**
 
@@ -152,6 +154,7 @@ The third chart ties the story together by showing where countries classified as
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+<br/>
 
 **Overall Story:**
 
