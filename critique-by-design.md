@@ -113,6 +113,8 @@ What is more, the Sankey Diagram required a specific format of data input, so ad
 
 **Graph 1 - Line Chart: Avg. Press Freedom Index**
 
+The first chart sets the stage by showing the overall decline in press freedom across 180 countries from 2013 to 2023. It reveals a steady drop in the average press freedom score, with a sharp decline from 2021 to 2022. This provides a macro-level view of how press freedom is deteriorating globally, setting up the context for the more detailed breakdown in the following charts.
+
 <div class='tableauPlaceholder' id='viz1726110857745' style='position: relative'><noscript><a href='#'><img alt='Avg. Press Freedom Score in 180 Countries Keeps Droping from 2013 to 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PressFreedomLine1&#47;Avg_FreedomPressScore&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PressFreedomLine1&#47;Avg_FreedomPressScore' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PressFreedomLine1&#47;Avg_FreedomPressScore&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1726110857745');
@@ -125,6 +127,8 @@ What is more, the Sankey Diagram required a specific format of data input, so ad
 
 **Graph 2 - Line Chart: Number of Countries by Level**
 
+The second chart builds on the narrative of the first by breaking down how countries are distributed across different press freedom levels ("Good," "Satisfactory," "Problematic," "Difficult," and "Very Serious"). It shows that while the overall average is dropping, the most concerning shift is the increase in countries categorized as "Very Serious" from 2021 to 2023. This aligns with the sharp decline in the average score seen in the first chart, indicating that more countries are facing severe challenges to press freedom.
+
 <div class='tableauPlaceholder' id='viz1726110908821' style='position: relative'><noscript><a href='#'><img alt='Number of Countries under Different Press Freedom Levels from 2013 to 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PressFreedomLine2&#47;CountriesByLevel&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PressFreedomLine2&#47;CountriesByLevel' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PressFreedomLine2&#47;CountriesByLevel&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1726110908821');
@@ -136,6 +140,9 @@ What is more, the Sankey Diagram required a specific format of data input, so ad
 </script>
 
 **Graph 3 - Sankey Diagram: 2021 vs 2023**
+
+The third chart ties the story together by showing where countries classified as "Difficult" and "Very Serious" in 2023 originated from in 2021. This Sankey diagram visualizes how countries have moved from less severe categories like "Problematic" or "Difficult" to "Very Serious" by 2023, reinforcing the trend of worsening press freedom highlighted in the first two charts. This flow of transitions helps explain the growing number of countries in the "Very Serious" category shown in the second chart and the sharp drop in average scores in the first chart.
+
 <div class='tableauPlaceholder' id='viz1726110942127' style='position: relative'><noscript><a href='#'><img alt='31 Countries have a ‘Very Serious’ Press Freedom Situation in 2023 Deteriorating Rapidly ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PressFreedomSankey&#47;SankeyChartTemplate&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PressFreedomSankey&#47;SankeyChartTemplate' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PressFreedomSankey&#47;SankeyChartTemplate&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1726110942127');
@@ -146,4 +153,7 @@ What is more, the Sankey Diagram required a specific format of data input, so ad
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+**Overall Story:**
+
+Together, these three charts tell a cohesive story. The first chart shows the decline in the global average press freedom score, the second reveals the increase in countries facing "Very Serious" press freedom issues, and the third explains how countries have transitioned into more severe categories over time. This paints a clear picture of a global trend where press freedom is steadily deteriorating, with more countries slipping into critical conditions in recent years.
 
