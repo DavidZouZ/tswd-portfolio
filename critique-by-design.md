@@ -51,6 +51,27 @@ The average line is one of the good ways to show how each country compared to av
 
 **Interview 2 (MISM studnet, mid 20's):**
 
+_Can you tell me what you think this is?_
+
+First Graph: It is a line chart tracking the average score or ranking of countries labeled as "Very Serious" in terms of press freedom from 2021 to 2023. Second Graph (Sankey): This diagram visualizes the flow of countries between different categories of press freedom from "Very Serious" to "Good" over two years, 2021 and 2023.
+
+_Can you describe to me what this is telling you?_
+
+The first graph is depicting the general situation for the "Very Serious" category is worsening or improving over time. The Sankey diagram shows how countries progress or regress in press freedom, indicating possible global trends affecting the media.
+
+_Is there anything you find surprising or confusing?_
+
+It's a little bit unclear how many countries are represented in the first graph's individual lines, which could confuse the audiences about what exactly each line signifies. The transition numbers in the Sankey diagram might require clarification to help interpret.
+
+_Who do you think is the intended audience for this?_
+
+This visualization most likely targets policymakers, journalists, researchers interested in press freedom trends.
+
+_Is there anything you would change or do differently?_
+
+For the line chart, ensuring that the average line and individual country lines are distinctively marked and explained would avoid confusion. Adding clearer annotations could improve readability for the Sankey diagram.
+
+
 **Synthesis:** 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
@@ -59,6 +80,10 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+**Graph 1: Line Chart**
+
+
+**Graph 2: Sankey Diagram**
 
 
 
