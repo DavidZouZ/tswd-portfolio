@@ -71,19 +71,43 @@ _Is there anything you would change or do differently?_
 
 For the line chart, ensuring that the average line and individual country lines are distinctively marked and explained would avoid confusion. Adding clearer annotations could improve readability for the Sankey diagram.
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Synthesis:** 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
+_Summary of Feedback:_
+
+Both interviewers pointed out challenges with the clarity of the graphs. The first line chart was seen as confusing due to a lack of proper labeling and insufficient distinctions between lines. Similarly, the Sankey diagram was difficult to interpret, particularly regarding the transitions between press freedom categories over time. Both interviewers emphasized the need for improved visual design, suggesting clearer annotations and a more intuitive color scheme, such as red for "Very Serious" and green for "Good." They also noted that the visualizations target an audience of journalists, policymakers, and researchers, but stressed the importance of improving clarity to ensure these audiences can easily understand the presented trends.
+
+_What I Learned from the Feedback:_
+
+I learned that clarity and ease of interpretation are essential for effective data visualization, especially when addressing complex topics like press freedom. The feedback highlighted the need for more explicit labeling and clearer distinctions between data points to avoid confusion. It also emphasized the importance of using an intuitive color scheme to enhance readability, with familiar associations like red for "Very Serious" and green for "Good." Furthermore, while the visualizations are intended for a knowledgeable audience, improvements in visual communication are necessary to ensure that all viewers, regardless of expertise, can easily grasp the data trends.
+
+_What Design Changes I Will Make in My Final Design:_
+
+1. I will include clear labels and readable color scheme to avoid confusions.
+
+2. I will NOT include all the contries in the line chart; instead, I will only use the average line to show the trend of press freedom.
+
+3. I will make a total of three charts: One shows the Avg. Press Freedom Score of all the countries; one introduce the changes of the number of countries under different levels over time (with "Very Serious" highlighted); the last one is the Sankey, showing where are the countries under "difficult" and "very serious" in 2023 coming from (where were they in 2021).
+
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
-**Graph 1: Line Chart**
+**Preperation:**
+Before making the graphs in Tableau, I needed to process the raw data first. The downloaded data only has the Press Freedom Index (Score) without the levels, so I implemented a excel function to create a new column showing the Press Freedom Level based on the [methedology](https://rsf.org/en/methodology-used-compiling-world-press-freedom-index-2024?year=2024&data_type=general). A screenshot is shown below:
+
+What is more, the Sankey Diagram required a specific format of data input, so additional data processes steps are needed. An example of the final format is shown below:
 
 
-**Graph 2: Sankey Diagram**
+**Graph 1 - Line Chart: Avg. Press Freedom Index**
+
+**Graph 2 - Line Chart: Number of Countries by Level**
+
+**Graph 3 - Sankey Diagram: 2021 vs 2023**
 
 
 
