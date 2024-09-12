@@ -100,8 +100,11 @@ _Include and describe your final solution here. It's also a good idea to summari
 **Preperation:**
 Before making the graphs in Tableau, I needed to process the raw data first. The downloaded data only has the Press Freedom Index (Score) without the levels, so I implemented a excel function to create a new column showing the Press Freedom Level based on the [methedology](https://rsf.org/en/methodology-used-compiling-world-press-freedom-index-2024?year=2024&data_type=general). A screenshot is shown below:
 
+<img src="dp1.png" width="500"/>
+
 What is more, the Sankey Diagram required a specific format of data input, so additional data processes steps are needed. An example of the final format is shown below:
 
+<img src="dp2.png" width="500"/>
 
 **Graph 1 - Line Chart: Avg. Press Freedom Index**
 
