@@ -5,6 +5,8 @@
  
 ## Second-hand Cars Depreciation Rates in the U.S.
 
+<img src="car-pic1.png" width="500"/>
+
 ### 1.1. High-level Summary:
 
 Purchasing a second-hand car is a significant decision that involves balancing cost, reliability, and long-term value. One crucial factor that often influences this decision is the depreciation rate of the vehicle—a measure of how quickly a car loses its value over time. This project aims to provide readers, specifically potential second-hand car buyers, with detailed insights into the depreciation rates of various cars in the U.S. market. By analyzing factors such as region, car body styles, brand, and other dimensions, the project seeks to help buyers make informed decisions to maximize their investment.
