@@ -44,7 +44,7 @@ Through comprehensive data analysis and visualization, we will present rankings 
 - Factors contributing to regional variations (climate, economic conditions, regional preferences).
 - Case studies of specific regions with notable depreciation trends.
 
-3.4. Additional Factors Affecting Depreciation
+3.4. Additional Factors Affecting Depreciation (still deciding what other dimensions to include)
 
 - (optional) Impact of fuel types (gasoline, diesel, electric) on depreciation.
 - (optional) Effect of technological features and model updates.
