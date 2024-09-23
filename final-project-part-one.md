@@ -51,15 +51,10 @@ Through comprehensive data analysis and visualization, we will present rankings 
 - (optional) Effect of technological features and model updates.
 - (optional) Role of supply and demand in the used car market.
 
-4. Actionable Insights and Recommendations (Provide readers with practical advice based on the analysis)
-
-- Strategies for choosing cars with slower depreciation rates.
-- Tips on timing purchases and negotiations.
-- Considerations for balancing initial cost with long-term value.
-
-5. Conclusion: Making an Informed Purchase Decision
+4. Conclusion: Making an Informed Purchase Decision
 
 - Recap of the most significant insights from the analysis.
+- Strategies for choosing cars with slower depreciation rates.
 - Encouragement for readers to apply these insights in their car-buying journey.
 - Final thoughts on staying informed about market trends.
 
