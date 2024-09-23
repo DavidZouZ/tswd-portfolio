@@ -26,23 +26,23 @@ Through comprehensive data analysis and visualization, we will present rankings 
 
 3. Detailed Depreciation by Different Dimensions
 
-- 3.1. Depreciation by Car Body Styles
+ 3.1. Depreciation by Car Body Styles
 
--- Presentation of data comparing depreciation rates among sedans, SUVs, trucks, etc.
--- Visualizations ranking body styles from slowest to fastest depreciation.
--- Discussion on why certain body styles retain value better (e.g., popularity, utility).
+- Presentation of data comparing depreciation rates among sedans, SUVs, trucks, etc.
+- Visualizations ranking body styles from slowest to fastest depreciation.
+- Discussion on why certain body styles retain value better (e.g., popularity, utility).
 
-- 3.2. Brand Influence on Depreciation Rates
+ 3.2. Brand Influence on Depreciation Rates
 
--- Analysis of depreciation rates across various brands.
--- Rankings of brands with the best and worst depreciation rates.
--- Insights into brand reputation, reliability, and their impact on value retention.
+- Analysis of depreciation rates across various brands.
+- Rankings of brands with the best and worst depreciation rates.
+- Insights into brand reputation, reliability, and their impact on value retention.
 
-- 3.3. Regional Variations in Depreciation
+ 3.3. Regional Variations in Depreciation
 
--- Data showcasing regional differences in depreciation.
--- Factors contributing to regional variations (climate, economic conditions, regional preferences).
--- Case studies of specific regions with notable depreciation trends.
+- Data showcasing regional differences in depreciation.
+- Factors contributing to regional variations (climate, economic conditions, regional preferences).
+- Case studies of specific regions with notable depreciation trends.
 
 3.4. Additional Factors Affecting Depreciation
 
