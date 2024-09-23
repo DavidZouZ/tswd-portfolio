@@ -61,7 +61,7 @@ Through comprehensive data analysis and visualization, we will present rankings 
 # 2. Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img src="Initial-sketches-p1.jpg" width="800"/>
 
 # 3. The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
