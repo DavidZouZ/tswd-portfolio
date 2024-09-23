@@ -80,12 +80,12 @@ Text here...
 For this project on second-hand car depreciation rates in the U.S., I will primarily use two datasets:
 
 **[Used Car Price Prediction Dataset](https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset)** 
-Description: This dataset is a comprehensive collection of automotive information extracted from cars.com. It includes details on used cars such as make, model, year, mileage, transmission type, fuel type, and current selling price. This rich set of attributes provides a solid foundation for analyzing how various factors affect used car prices.
 
-**Extended Dataset for Used Car Prices**
+This dataset is a comprehensive collection of automotive information extracted from cars.com. It includes details on used cars such as make, model, year, mileage, transmission type, fuel type, and current selling price. This rich set of attributes provides a solid foundation for analyzing how various factors affect used car prices.
 
-URL: https://www.kaggle.com/datasets/anthonytherrien/extended-dataset-for-used-car-prices-regression/data
-Description: This dataset is an extension designed to complement the "Used Car Price Prediction Dataset." It enriches the original data by adding the manufacturer's suggested retail price (MSRP) for each vehicle, among other features. The inclusion of MSRP is crucial for calculating depreciation rates, as it represents the original value of the car when new.
+**[Extended Dataset for Used Car Prices](https://www.kaggle.com/datasets/anthonytherrien/extended-dataset-for-used-car-prices-regression/data)**
+
+This dataset is an extension designed to complement the "Used Car Price Prediction Dataset." It enriches the original data by adding the manufacturer's suggested retail price (MSRP) for each vehicle, among other features. The inclusion of MSRP is crucial for calculating depreciation rates, as it represents the original value of the car when new.
 Planned Use of Data
 
 I plan to leverage these datasets to perform a detailed analysis of car depreciation rates across different dimensions such as car body styles, brands, and regions within the U.S. By comparing the current selling prices with the original MSRP provided in the extended dataset, I will calculate the depreciation percentage for each vehicle. This calculation is essential to understand how much value a car has lost over time, which is a key concern for second-hand car buyers.
