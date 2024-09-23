@@ -5,7 +5,7 @@
  
 ## Second-hand Cars Depreciation Rates in the U.S.
 
-<img src="car-pic1.png" width="500"/>
+<img src="car-pic1.png" width="700"/>
 
 ### 1.1. High-level Summary:
 
