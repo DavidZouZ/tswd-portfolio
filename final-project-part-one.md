@@ -70,17 +70,27 @@ Text here...
 # 3. The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Used Cars Dataset | https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data | Vehicles listings from Craigslist.org within the United States |
+| Used Car Price Prediction Dataset | https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset | A collection of automotive information extracted from https://www.cars.com |
+| Extended Dataset for Used Car Prices | https://www.kaggle.com/datasets/anthonytherrien/extended-dataset-for-used-car-prices-regression/data | This dataset is an extension designed to complement the "Used Car Price Prediction Dataset" |
+| Used Car Price Dataset | https://www.kaggle.com/datasets/rishabhkarn/used-car-dataset |  A dataset for predicting used car price |
+
+For this project on second-hand car depreciation rates in the U.S., I will primarily use two datasets:
+
+**[Used Car Price Prediction Dataset](https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset)** 
+Description: This dataset is a comprehensive collection of automotive information extracted from cars.com. It includes details on used cars such as make, model, year, mileage, transmission type, fuel type, and current selling price. This rich set of attributes provides a solid foundation for analyzing how various factors affect used car prices.
+
+**Extended Dataset for Used Car Prices**
+
+URL: https://www.kaggle.com/datasets/anthonytherrien/extended-dataset-for-used-car-prices-regression/data
+Description: This dataset is an extension designed to complement the "Used Car Price Prediction Dataset." It enriches the original data by adding the manufacturer's suggested retail price (MSRP) for each vehicle, among other features. The inclusion of MSRP is crucial for calculating depreciation rates, as it represents the original value of the car when new.
+Planned Use of Data
+
+I plan to leverage these datasets to perform a detailed analysis of car depreciation rates across different dimensions such as car body styles, brands, and regions within the U.S. By comparing the current selling prices with the original MSRP provided in the extended dataset, I will calculate the depreciation percentage for each vehicle. This calculation is essential to understand how much value a car has lost over time, which is a key concern for second-hand car buyers.
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan to complete my final project by utilizing **Tableau** as the primary tool for data analysis and visualization. My project will be an interactive, stand-alone visualization that guides the reader through the story of second-hand car depreciation in the U.S. I will leverage Tableau's storytelling features to integrate narrative elements with my visualizations.
