@@ -20,21 +20,24 @@ https://public.tableau.com/views/USUsedCarsDepreciationAnaysis/FullStory?:langua
 
 ## Storyboards:
 
-### Title: Don't Merely Consider Sedan/SUV/Electric Vehicle When Buying Used Car
+### Thesis Statement: Don't Merely Consider Sedan/SUV/Electric Vehicle When Buying Used Car
 
 1. The 1st dashboard introduces the enormous **U.S. used car market size** and why we should consider used car in terms of **affordability**.
 2. The 2nd dashboard is the Cars.com data source introduction and its data distribution using mainly bar charts to show credibility and authority of the following information.
 3. The 3rd dashboard provides comparisions of the avarage depreciation rate for different car **body styles** and **fuel types** as a more general dimension.
-4. The 4th dashboard shows the relationship between the **number of cars on the market** and the depreciation rates of different **body styples**.
+4. The 4th dashboard shows the relationship between the **number of cars on the market** and the depreciation rates of different **body styles**.
 5. The 5th dashboard goes deeper into the **brand** dimension of depreciation; while some data (brands) are too niche.
 6. The 6th dashboard continue discuss the **top and least depreciation used car brands** which are more popular. An interactive function is also provided.
+
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> Include your approach to identifying representative individuals, and who you hope to reach with your story.
 
-Text here!
+The target audience for this series of dashboards would be potential used car buyers (e.g. college students, new grads), car related financial decision-makers, car enthusiast, and automotive industry professionals (e.g. dealers). 
+
+The incorporation of various dimensions (body style, fuel type, brand) ensures that the dashboards address both general and niche audiences, focusing on popular vehicles while also acknowledging more niche brands.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
