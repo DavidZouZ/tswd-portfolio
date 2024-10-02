@@ -21,14 +21,12 @@ Note: Use the Tableau Public Hyper Link and full screen for better viewing exper
 
 ## Storyboards:
 
-### Thesis Statement: Don't Merely Consider Sedan/SUV/Electric Vehicle When Buying Used Car
-
 1. The 1st dashboard introduces the enormous **U.S. used car market size** and why we should consider used car in terms of **affordability**.
 2. The 2nd dashboard is the Cars.com data source introduction and its data distribution using mainly bar charts to show credibility and authority of the following information.
 3. The 3rd dashboard provides comparisions of the avarage depreciation rate for different car **body styles** and **fuel types** as a more general dimension.
 4. The 4th dashboard shows the relationship between the **number of cars on the market** and the depreciation rates of different **body styles**.
 5. The 5th dashboard goes deeper into the **brand** dimension of depreciation; while some data (brands) are too niche.
-6. The 6th dashboard continue discuss the **top and least depreciation used car brands** which are more popular. An interactive function is also provided.
+6. The 6th dashboard continue discuss the **top and least depreciation used car brands** which are more popular.
 
 
 # User research 
@@ -43,48 +41,33 @@ The incorporation of various dimensions (body style, fuel type, brand) ensures t
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+| Audience interest | What do you care about the most when you purchase a car (used car)? |
+| Feedback on the storyline | What do you think of the current structure of the story? |
+| Feedback on visualization | Any suggestions on the current visualizaitions? |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (BIDA 20') | Interview 2 (MISM 20') | Interview 3 (MISM 20') |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What do you care about the most when you purchase a car (used car)? | Price | How much cheaper it is comparing to the MSRP | Appearance |
+| What do you think of the current structure of the story? | Lack of purpose and persuation statement | Can be more specific | Good |
+| Any suggestions on the current visualizaitions? | Too many different colors | Don't know where to focus on some dashboards, too crowded | Will be better if interactive |
 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Too much facts, but lack of persuation | Set up an thesis statement: Don't Merely Consider Sedan/SUV/Electric Vehicle When Buying Used Car (already done) |
+| Be specific at the 6th dashboard | Set up an interactive dashboard that shows different dep. rates by body styples when clicking on different brand (already done) |
+| Unity of color usage | Change the color set up by using mainly blue and orange (already done) |
+| Too much info in one dashboard | Seperate the crowded dashboard into two dashboards (already done) |
 
-> ...include any final thoughts you have here. 
+> ...include any final thoughts you have here.
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+My final thoughts on the feedback and the anticipated changes are that these adjustments will enhance both the clarity and engagement of the presentation. By introducing a clear thesis statement and simplifying the visuals with unified color schemes and interactive elements, the revised dashboard will better communicate the key insights and keep the audience focused on the essential data.
 
