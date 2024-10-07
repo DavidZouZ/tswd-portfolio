@@ -21,7 +21,9 @@ In addition to these structural and design changes, I also **revised the content
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+The primary audience for this project includes **potential used car buyers**, **car-related financial decision-makers**, and **automotive industry professionals**. These groups were identified through interviews and by analyzing common user personas, such as young buyers looking for affordable options with less depreciations and industry professionals interested in understanding car depreciation trends. Feedback from interviews help me narrow down the focus. For example, potential buyers were primarily concerned with prices.
+
+To accommodate this diverse audience, I made specific adjustments, such as focusing on **key decision-making factors** like depreciation rates and vehicle remainding values, while also incorporating **interactive dashboards** that allow for deeper exploration of individual brands and car types. For industry professionals, I included broader **market trends with time-series forecasting** to help them understand used car pricing dynamics. These adjustments ensured that the data story would not only inform but also resonate with each segment of the audience.
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
