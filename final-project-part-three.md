@@ -21,13 +21,9 @@ In addition to these structural and design changes, I also **revised the content
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-The primary audience for this project includes **potential used car buyers**, **car-related financial decision-makers**, and **automotive industry professionals**. These groups were identified through interviews and by analyzing common user personas, such as young buyers looking for affordable options with less depreciations and industry professionals interested in understanding car depreciation trends. Feedback from interviews help me narrow down the focus. For example, potential buyers were primarily concerned with prices.
+The primary audience for this project includes **potential used car buyers**, **car-related financial decision-makers**, and **automotive industry professionals**. These groups were identified through interviews and by analyzing common user personas, such as young buyers looking for affordable options with less depreciations and industry professionals interested in understanding car depreciation trends. Feedback from interviews help me narrow down the focus. For example, potential buyers were primarily concerned with prices, so put a lot of works on the data preparation process that I merged two datasets (one with the car MSRP, and another one with the current prices on the used car market) to calculate the vehicle remaining values, total depreciation rates, and the average depreciation rate per year to give the audience the direct information and insights.
 
 To accommodate this diverse audience, I made specific adjustments, such as focusing on **key decision-making factors** like depreciation rates and vehicle remainding values, while also incorporating **interactive dashboards** that allow for deeper exploration of individual brands and car types. For industry professionals, I included broader **market trends with time-series forecasting** to help them understand used car pricing dynamics. These adjustments ensured that the data story would not only inform but also resonate with each segment of the audience.
-
-## Data Preparation
-
-Text here!
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
