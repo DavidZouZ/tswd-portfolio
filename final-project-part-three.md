@@ -25,8 +25,7 @@ The primary audience for this project includes **potential used car buyers**, **
 
 To accommodate this diverse audience, I made specific adjustments, such as focusing on **key decision-making factors** like depreciation rates and vehicle remainding values, while also incorporating **interactive dashboards** that allow for deeper exploration of individual brands and car types. For industry professionals, I included broader **market trends with time-series forecasting** to help them understand used car pricing dynamics. These adjustments ensured that the data story would not only inform but also resonate with each segment of the audience.
 
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+## Data Preparation
 
 Text here!
 
