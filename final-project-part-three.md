@@ -40,9 +40,3 @@ To accommodate this diverse audience, I made specific adjustments, such as focus
 
 1. Used Car Price Prediction Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
 2. Extended Dataset for Used Car Prices: https://www.kaggle.com/datasets/anthonytherrien/extended-dataset-for-used-car-prices-regression/data
-
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
