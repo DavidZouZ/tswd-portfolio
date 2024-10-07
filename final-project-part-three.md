@@ -26,7 +26,7 @@ Another critical design change was the introduction of **interactivity in the da
 
 What's more, I made **simplification on the color scheme**. Feedback indicated that the original dashboards had too many different colors, which made it difficult for users to focus on key points. I reworked the visuals to use a consistent color palette, primarily blue and orange, which helped to unify the design across all dashboards.
 
-In addition to these structural and design changes, I also **revised the content flow of the data story and include captions for each dashboard on the Full Story section** as suggested in the Part II feedback to have have more of a journalistic spin. I adjusted the order of dashboards to create a more logical narrative progression, leading the audience from a high-level introduction of the used car market to more detailed and specific insights about car depreciation, body styles, and brands. This reorganization ensures that the audience can follow the story naturally.
+In addition to these structural and design changes, I also **revised the content flow of the data story and include captions for each dashboard on the Full Story section** as suggested in the Part II feedback to have have more of a journalistic spin. I added a topic (question) as a hook at the begining and a potential answer at the end and adjusted the order of dashboards to create a more logical narrative progression, leading the audience from a high-level introduction of the used car market to more detailed and specific insights about car depreciation, body styles, and brands. This reorganization ensures that the audience can follow the story naturally.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.
