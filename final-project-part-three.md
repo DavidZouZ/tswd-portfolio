@@ -3,7 +3,7 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+Tableau Full Story: https://public.tableau.com/app/profile/david.zou1201/viz/USUsedCarsDepreciationAnaysis/FullStory?publish=yes
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
