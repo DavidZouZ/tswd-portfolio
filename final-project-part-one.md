@@ -1,4 +1,4 @@
-| [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](https://davidzouz.github.io/tswd-portfolio/critique-by-design) | [final project I](https://davidzouz.github.io/tswd-portfolio/final-project-part-one) | [final project II](https://davidzouz.github.io/tswd-portfolio/final-project-part-two) | [final project III] |
+| [home page](https://davidzouz.github.io/tswd-portfolio/) | [visualizing debt](https://davidzouz.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](https://davidzouz.github.io/tswd-portfolio/critique-by-design) | [final project I](https://davidzouz.github.io/tswd-portfolio/final-project-part-one) | [final project II](https://davidzouz.github.io/tswd-portfolio/final-project-part-two) | [final project III](https://davidzouz.github.io/tswd-portfolio/final-project-part-three) |
 
 # 1. Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
