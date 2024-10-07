@@ -24,10 +24,7 @@ This page is linking to a new Markdown document called `visualizing-government-d
 ## Assignment 3&4: [Critique by Design](https://davidzouz.github.io/tswd-portfolio/critique-by-design)
 This page is linking to a new Markdown document called `critique-by-design.md`. 
 
-## Final project
+## Final project: [Part I](https://davidzouz.github.io/tswd-portfolio/final-project-part-one) | [Part II](https://davidzouz.github.io/tswd-portfolio/final-project-part-two) | [Part III](https://davidzouz.github.io/tswd-portfolio/final-project-part-three)
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](https://davidzouz.github.io/tswd-portfolio/final-project-part-one)
-[Part II](https://davidzouz.github.io/tswd-portfolio/final-project-part-two)
-[Part III](https://davidzouz.github.io/tswd-portfolio/final-project-part-three)
 
 
